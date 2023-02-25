@@ -9,4 +9,4 @@ class Database:
         print("DB connected")
 
     def db_disconnect():
-        print("DB disconnected")
+        print("No any connections")
